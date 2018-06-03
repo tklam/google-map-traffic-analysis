@@ -7,10 +7,10 @@ Let's KISS again. Neural networks are not used. Instead, the algorithm is as fol
 4. determine the level of traffic jam by counting the amount of each type of lines (not implemented in the code)
 
 For example, suppose we have a region on Google Map:
-[Screen capture of a region on Google Map](sample-traffic-3.png)
+![Screen capture of a region on Google Map](sample-traffic-3.png)
 
 The result of line detection:
-[Result of line detection](result-sample-traffic-3.png)
+![Result of line detection](result-sample-traffic-3.png)
 
 Build:
 ```bash
