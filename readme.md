@@ -18,4 +18,5 @@ gitclone https://github.com/tklam/google-map-traffic-analysis.git
 cd google-map-traffic-analysis
 mkdir build
 cmake ..
+make
 ```
